@@ -1,0 +1,8 @@
+# Java compiled files
+*.class
+
+# Serialized data files
+students.dat
+
+# Temporary files
+*.tmp
